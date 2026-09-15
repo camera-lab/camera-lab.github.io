@@ -10,6 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/site.css">
+  <link rel="stylesheet" href="assets/plan.css">
 </head>
 <body>
   <header class="topbar">
@@ -19,7 +20,7 @@
     </a>
     <button class="menu" aria-expanded="false" aria-controls="nav">Menu</button>
     <nav id="nav" aria-label="Primary navigation">
-      <a href="#research">Research</a><a href="#work">Selected work</a><a href="#people">People</a><a href="#publications">Publications</a><a href="#contact">Contact</a>
+      <a href="#vision">Vision</a><a href="#research">Research</a><a href="#roadmap">Roadmap</a><a href="#people">People</a><a href="#publications">Publications</a><a href="#contact">Contact</a>
     </nav>
   </header>
 
@@ -48,14 +49,23 @@
       </div>
     </section>
 
+    <section id="vision" class="section vision">
+      <div class="vision-title"><p class="eyebrow">Launching November 2026</p><h2>One imaging system.<br>Designed end to end.</h2></div>
+      <div class="vision-copy">
+        <p class="vision-lead">Hong Kong Camera Lab bridges physical optical engineering, mathematical sampling theory and photonic computing to create next-generation imaging architectures.</p>
+        <p>Instead of separating optical design from downstream computation, we co-design wavefront shaping, active optomechanical control, adaptive non-uniform sampling and optical neural processing. The goal is to improve resolution, dynamic range, field of view, throughput and energy efficiency as properties of the complete system.</p>
+        <div class="vision-chain" aria-label="End-to-end imaging co-design"><span>Optical field</span><i>→</i><span>Adaptive capture</span><i>→</i><span>Physical processing</span><i>→</i><span>Computational inference</span></div>
+      </div>
+    </section>
+
     <section id="research" class="section research">
       <div class="section-heading"><p class="eyebrow">Research directions</p><h2>Capture more.<br>Infer better.</h2></div>
       <div class="research-grid">
-        <article class="research-card featured"><span>01</span><div><h3>Gigapixel camera arrays</h3><p>Compact, scalable optical architectures for high-resolution, wide-field and high-frame-rate capture.</p></div><img src="assets/images/disp/tele_rsi_side_zoom.jpg" alt="Camera array system"></article>
-        <article class="research-card"><span>02</span><div><h3>Computational imaging</h3><p>Joint design of measurement and reconstruction for cameras that estimate, rather than simply record.</p></div></article>
-        <article class="research-card"><span>03</span><div><h3>Holographic imaging</h3><p>Physics-driven reconstruction for high-throughput, three-dimensional sensing and microscopy.</p></div></article>
-        <article class="research-card"><span>04</span><div><h3>Spectral systems</h3><p>Compressive measurement architectures that recover rich spectral and spatial information efficiently.</p></div></article>
-        <article class="research-card"><span>05</span><div><h3>AI for cameras</h3><p>Algorithms that control capture, interpret extreme data rates and synthesize new viewpoints.</p></div></article>
+        <article class="research-card featured"><span>01</span><div><h3>COTS array camera testbeds</h3><p>Rapid multi-aperture prototypes with synchronized capture, parallax-robust data fusion, synthetic aperture reconstruction and neural multi-view synthesis.</p></div><img src="assets/images/disp/tele_rsi_side_zoom.jpg" alt="Camera array system"></article>
+        <article class="research-card"><span>02</span><div><h3>Adaptive camera modules</h3><p>Compact fast-optics systems integrating active focus, dynamic aberration correction and advanced micro-optics packaging.</p></div></article>
+        <article class="research-card"><span>03</span><div><h3>Optical neural processing</h3><p>Diffractive and hybrid optoelectronic platforms that perform feature extraction and data reduction within the optical path.</p></div></article>
+        <article class="research-card"><span>04</span><div><h3>Adaptive computational imaging</h3><p>Sampling theory, task-driven acquisition and hardware-in-the-loop validation for efficient information capture.</p></div></article>
+        <article class="research-card"><span>05</span><div><h3>Wide-field high-resolution systems</h3><p>Gigapixel microscopy and multi-aperture platforms for biomedical imaging, industrial inspection, robotics and scientific sensing.</p></div></article>
       </div>
     </section>
 
@@ -64,6 +74,15 @@
       <div class="work-gallery">
         <figure class="wide"><img src="assets/images/disp/argus.jpeg" alt="Argus camera platform"><figcaption><b>Array imaging</b><span>Wide field of view · high resolution</span></figcaption></figure>
         <figure><img src="assets/images/disp/compressiveholography.png" alt="Compressive holography reconstruction"><figcaption><b>Computational holography</b><span>3D inference from coded measurements</span></figcaption></figure>
+      </div>
+    </section>
+
+    <section id="roadmap" class="section roadmap">
+      <div class="roadmap-heading"><p class="eyebrow">Programmatic roadmap</p><h2>From testbed to field validation.</h2><p>A three-phase research program connects mathematical foundations, custom hardware and complete imaging systems.</p></div>
+      <div class="timeline">
+        <article><div class="phase"><span>Phase 01</span><b>Q4 2026 – Q2 2027</b></div><h3>Foundation</h3><p>Deploy modular COTS array testbeds, implement baseline data-fusion algorithms and establish adaptive sampling models.</p></article>
+        <article><div class="phase"><span>Phase 02</span><b>Q3 2027 – Q1 2028</b></div><h3>Custom fabrication</h3><p>Integrate compact adaptive camera modules, construct optical neural processing testbeds and assemble multi-aperture microscopy systems.</p></article>
+        <article><div class="phase"><span>Phase 03</span><b>Q2 2028 – Q4 2028</b></div><h3>System convergence</h3><p>Validate high-throughput optical front ends and unified adaptive imaging platforms with research, biomedical and industrial collaborators.</p></article>
       </div>
     </section>
 
