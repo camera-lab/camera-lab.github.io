@@ -23,7 +23,7 @@ toc: true
 
 <br>
 
-Full publication on [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=CcSZwTsAAAAJ)
+Full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=CcSZwTsAAAAJ). Updated through 2026.
 
 <br>
 
