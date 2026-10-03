@@ -1,6 +1,6 @@
 ---
 name: Ahmed AI Ghamdi
-position: gradstudent
+position: former_arizona
 avatar: aaghamdi.jpeg
 email: 
 scholar: 

@@ -1,6 +1,6 @@
 ---
 name: Zhipeng Dong
-position: gradstudent
+position: former_arizona
 avatar: zhipengdong.png
 email: 
 scholar: 

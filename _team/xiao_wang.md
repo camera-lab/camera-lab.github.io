@@ -1,6 +1,6 @@
 ---
 name: Xiao Wang
-position: gradstudent
+position: former_arizona
 avatar: xiaowang.jpg
 email: xwang3@arizona.edu
 scholar: 
@@ -26,6 +26,5 @@ joined: 2021
 
 ## Education
 [Linkedin](https://www.linkedin.com/in/xiaowang-optics/)
-
 
 

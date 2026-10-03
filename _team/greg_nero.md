@@ -1,6 +1,6 @@
 ---
 name: Greg Nero
-position: gradstudent
+position: former_arizona
 avatar: gregnero.png
 email: gnero@arizona.edu
 scholar: 

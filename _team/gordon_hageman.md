@@ -1,6 +1,6 @@
 ---
 name: Gordon Hageman
-position: gradstudent
+position: former_arizona
 avatar: gordonhageman.jpeg
 email: ghageman@arizona.edu
 scholar: 
