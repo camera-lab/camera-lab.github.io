@@ -84,6 +84,19 @@ title: "Team"
 <br>
 <hr>
 
+## Former Members of Arizona Camera Lab
+
+| Name             | Role             | Year      |
+| ---------------- | ---------------- | --------- |
+| Greg Nero        | Graduate Student | 2020–2025 |
+| Zhipeng Dong     | Graduate Student | 2021      |
+| Xiao Wang        | Graduate Student | 2021      |
+| Gordon Hageman   | Graduate Student | 2022      |
+| Ahmed Al Ghamdi  | Graduate Student | 2022      |
+| Shengtai Zhu     | Graduate Student | 2023–2025 |
+
+<hr>
+
 ## Former Members of DISP
 
 
@@ -94,48 +107,48 @@ title: "Team"
 | Minghao Hu                  | Graduate Student      | 2018–2023 |
 | Steve Feller                | AWARE project manager |      |
 | Leah Goldsmith              | group administrator   |      |
-| Dr. Mehadi Hassan           |                       |      |
-| Dr. Ruoyu Zhu               |                       |      |
-| Dr. Daniel Marks            |                       |      |
+| Dr. Mehadi Hassan           |                       | 2017 |
+| Dr. Ruoyu Zhu               |                       | 2017 |
+| Dr. Daniel Marks            |                       | 2001 |
 | Dr. Joel Greenberg          | CAXI program leader   |      |
-| Dr. Ken MacCabe             |                       |      |
+| Dr. Ken MacCabe             |                       | 2014 |
 | Paul Vosburgh               | instrument maker      |      |
 | Dr. Kalyani Krishnamurthy   | postdoc               |      |
 | Dr. Jun Niu                 | postdoc               |      |
 | Dr. Sean Pang               | postdoc               |      |
-| Dr. Alex Mrozack            |                       |      |
-| Dr. Evan Chen               |                       |      |
-| Dr. Tsung Han Tsai          |                       |      |
-| Dr. Andrew Holmgren         |                       |      |
-| Dr. Patrick Llull           |                       |      |
+| Dr. Alex Mrozack            |                       | 2014 |
+| Dr. Evan Chen               |                       | 2015 |
+| Dr. Tsung Han Tsai          |                       | 2016 |
+| Dr. Andrew Holmgren         |                       | 2016 |
+| Dr. Patrick Llull           |                       | 2016 |
 | Lauren Bange                |                       |      |
 | Dr. Orges Furxhi            | postdoc               |      |
 | Sally Gewalt                | Senior Staff          |      |
 | Joanna Clark                | Staff                 |      |
-| Dr. David Kittle            |                       |      |
+| Dr. David Kittle            |                       | 2013 |
 | Dr. Amar Chawla             | Staff                 |      |
-| Dr. Se Hoon Lim             |                       |      |
+| Dr. Se Hoon Lim             |                       | 2012 |
 | Dr. Joonku Hahn             | postdoc               |      |
 | Dr. Kerkil Choi             | postdoc               |      |
-| Dr. Ashwin Wagadarikar      |                       |      |
-| Dr. Cristina Fernandez      |                       |      |
+| Dr. Ashwin Wagadarikar      |                       | 2010 |
+| Dr. Cristina Fernandez      |                       | 2010 |
 | Dr. Nathan Hagen            | postdoc               |      |
 | Dr. Nikos Pitisianis        | Staff                 |      |
-| Dr. Andrew Portnoy          |                       |      |
+| Dr. Andrew Portnoy          |                       | 2009 |
 | Dr. Renu John               | postdoc               |      |
-| Dr. Mohan Shankar           |                       |      |
+| Dr. Mohan Shankar           |                       | 2007 |
 | Dr. Yangqia Wang            | postdoc               |      |
-| Dr. Scott McCain            |                       |      |
+| Dr. Scott McCain            |                       | 2007 |
 | Dr. Michael Gehm            | postdoc               |      |
-| Dr. Evan Cull               |                       |      |
+| Dr. Evan Cull               |                       | 2006 |
 | Dr. John Burchett           |                       |      |
-| Dr. Qi Hao                  |                       |      |
+| Dr. Qi Hao                  |                       | 2006 |
 | James Adelmen               |                       |      |
 | John Bower                  |                       |      |
 | Dr. Unnikrishnan Gopinathan |                       |      |
 | David Kowalski              |                       |      |
 | Dr. Santosh Narayankhedkar  |                       |      |
-| Dr. Prasant Potuluri        |                       |      |
+| Dr. Prasant Potuluri        |                       | 2004 |
 | Adam Saltzman               |                       |      |
 | Harsha Setty                |                       |      |
 | Dr. Alan Shang              |                       |      |
@@ -144,25 +157,8 @@ title: "Team"
 | Lin Wang                    |                       |      |
 | Zhanglei Wang               |                       |      |
 | Mingbo Xu                   |                       |      |
-| Dr. Yunhui Zheng            |                       |      |
+| Dr. Yunhui Zheng            |                       | 2005 |
 | Zhaochun Xu                 |                       |      |
-
-
-<hr>
-
-## Former Members of Arizona Camera Lab
-
-| Name             | Role             | Joined |
-| ---------------- | ---------------- | ------ |
-| Greg Nero        | Graduate Student | 2020   |
-| Zhipeng Dong     | Graduate Student | 2021   |
-| Xiao Wang        | Graduate Student | 2021   |
-| Gordon Hageman   | Graduate Student | 2022   |
-| Ahmed Al Ghamdi  | Graduate Student | 2022   |
-| Shengtai Zhu     | Graduate Student | 2023   |
-
-
-
 
 <hr>
 ## Former Members of Photonic Systems Group
@@ -174,22 +170,21 @@ title: "Team"
 | Eric Abbott                  | M.Sc   |      |
 | Dr. Michal Balberg           | Ph.D.  |      |
 | Dr. George Barbastathis      | Ph.D.  |      |
-| Dr. Scott Basinger           | Ph.D.  |      |
+| Dr. Scott Basinger           | Ph.D.  | 1996 |
 | Colin Byrne                  |        |      |
-| Dr. Geng-Sheng (Alan) Chen   | Ph.D.  |      |
+| Dr. Geng-Sheng (Alan) Chen   | Ph.D.  | 1993 |
 | Dr. Matt Fetterman           | Ph.D.  |      |
 | Jason Gallicchio             |        |      |
-| Dr. Junpeng Guo              | Ph.D.  |      |
-| Dr. Kent Hill                | Ph.D.  |      |
+| Dr. Junpeng Guo              | Ph.D.  | 1998 |
+| Dr. Kent Hill                | Ph.D.  | 1995 |
 | Dr.  Jose Jimenez            | Ph.D.  |      |
 | Dr. Andrew J. (A.J.) Johnson | Ph.D.  |      |
 | Dr. Hai Lin                  | Ph.D.  |      |
-| Dr. Daniel Marks             | Ph.D.  |      |
+| Dr. Daniel Marks             | Ph.D.  | 2001 |
 | Dr. Rick Morrison            | Ph.D.  |      |
-| Dr. Ken Purchase             | Ph.D.  |      |
+| Dr. Ken Purchase             | Ph.D.  | 1998 |
 | Andrew Rittgers              |        |      |
 | Ronald Stack                 |        |      |
 | Marc Talbot                  |        |      |
 | Dr. Richard Tarkka           | Ph.D.  |      |
-| Dr. Remy Tumbar              | Ph.D.  |      |
-
+| Dr. Remy Tumbar              | Ph.D.  | 2001 |
