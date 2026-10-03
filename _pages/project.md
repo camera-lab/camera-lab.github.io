@@ -8,7 +8,7 @@ permalink: /project/
 
 
 
-## Arizona Camera Lab
+## Camera Lab
 
 
 
