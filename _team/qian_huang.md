@@ -1,6 +1,6 @@
 ---
 name: Qian Huang
-position: alumni
+position: former_disp
 avatar: qianhuang.jpeg
 email: 
 scholar: 
