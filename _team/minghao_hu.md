@@ -1,6 +1,6 @@
 ---
 name: Minghao Hu
-position: alumni
+position: former_disp
 avatar: mhhu.jpg
 email: 
 scholar: 
